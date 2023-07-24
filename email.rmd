@@ -1,0 +1,11 @@
+---
+title: email
+output: blastula::blastula_email
+---
+
+Here's the email
+
+```{r}
+fabulous_data
+```
+

@@ -1,0 +1,20 @@
+---
+title: "Quarto with blastula"
+format: html
+---
+
+Hello world!uset
+
+```{r}
+fabulous_data <- beaver1
+
+```
+
+```{r}
+library(blastula)
+
+email <- render_connect_email("email.rmd")
+
+attach_connect_email(email, subject = "test email")
+```
+
