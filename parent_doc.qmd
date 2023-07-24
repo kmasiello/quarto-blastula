@@ -3,7 +3,7 @@ title: "Quarto with blastula"
 format: html
 ---
 
-Hello world!uset
+Hello world!
 
 ```{r}
 fabulous_data <- beaver1
